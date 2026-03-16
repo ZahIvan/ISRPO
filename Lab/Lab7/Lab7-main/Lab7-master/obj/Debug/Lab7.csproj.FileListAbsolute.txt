@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\ISPRO-Zadanie-main\Lab7\Lab7-master\bin\Debug\Lab7.exe.config
+C:\Users\User\Desktop\ISPRO-Zadanie-main\Lab7\Lab7-master\bin\Debug\Lab7.exe
+C:\Users\User\Desktop\ISPRO-Zadanie-main\Lab7\Lab7-master\bin\Debug\Lab7.pdb
+C:\Users\User\Desktop\ISPRO-Zadanie-main\Lab7\Lab7-master\obj\Debug\Lab7.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ISPRO-Zadanie-main\Lab7\Lab7-master\obj\Debug\Lab7.FormOrder.resources
+C:\Users\User\Desktop\ISPRO-Zadanie-main\Lab7\Lab7-master\obj\Debug\Lab7.FormReceipt.resources
+C:\Users\User\Desktop\ISPRO-Zadanie-main\Lab7\Lab7-master\obj\Debug\Lab7.MainForm.resources
+C:\Users\User\Desktop\ISPRO-Zadanie-main\Lab7\Lab7-master\obj\Debug\Lab7.Properties.Resources.resources
+C:\Users\User\Desktop\ISPRO-Zadanie-main\Lab7\Lab7-master\obj\Debug\Lab7.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ISPRO-Zadanie-main\Lab7\Lab7-master\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ISPRO-Zadanie-main\Lab7\Lab7-master\obj\Debug\Lab7.exe
+C:\Users\User\Desktop\ISPRO-Zadanie-main\Lab7\Lab7-master\obj\Debug\Lab7.pdb
